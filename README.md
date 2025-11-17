@@ -1,4 +1,5 @@
-## Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=boflorian&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boflorian&layout=compact&langs_count=8&theme=transparent)
 
 <!--
 **boflorian/boflorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
