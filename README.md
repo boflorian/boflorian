@@ -1,6 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=boflorian&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boflorian&layout=compact&langs_count=8&theme=transparent)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=boflorian&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boflorian&layout=compact&langs_count=8&theme=transparent)<br>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boflorian&theme=github-light)
 <!--
 **boflorian/boflorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
